@@ -1,5 +1,7 @@
 # Password-generator
 
+Live Demo: https://password-generator-five-xi-69.vercel.app/
+
 A lightweight, client-side Password Generator built with plain HTML, CSS and JavaScript.
 
 ## Overview
