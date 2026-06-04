@@ -35,11 +35,3 @@ This project is ready for static hosting. Example deployment options:
 
 - Vercel: Connect the GitHub repository and import the project — Vercel auto-detects static sites.
 - GitHub Pages: Enable Pages for the repository and serve from the `main` branch.
-
-## Contributing
-
-Contributions are welcome. Please open issues or pull requests with small, focused changes.
-
-## License
-
-Suggested: MIT — add a `LICENSE` file if you want to publish under this license.
